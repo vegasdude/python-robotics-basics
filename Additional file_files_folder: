@@ -1,0 +1,14 @@
+---
+
+### 🐍 4. `robotics-simulation-tools`
+**Description:** A collection of small robotics tools — e.g., PID control, SLAM basics, and motion profiles.
+
+---
+
+### ⚡ 5. `raspberrypi-robot-controller`
+**Description:** Python scripts for controlling a real robot with Raspberry Pi and GPIO.
+
+---
+
+Would you like me to **generate a full ready-to-upload repository** (with files, code, and README) for one of these ideas — for example, a **“Python Robotics Basics”** repo?  
+I can create all the `.py` and `.md` files so you can just copy them to GitHub.
