@@ -1,0 +1,11 @@
+# Python Robotics Basics 🤖
+This project contains simple Python examples for learning robotics programming — including motor control, sensor simulation, and motion algorithms.
+
+## Topics
+- DC motor simulation
+- Ultrasonic sensor distance calculation
+- Differential drive motion
+
+## Run
+```bash
+python motor_control/dc_motor_sim.py
