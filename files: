@@ -1,0 +1,11 @@
+**Features:**
+- Visualize robotic arm motion
+- Compute inverse kinematics
+- Adjust angles interactively
+
+---
+
+### 🧭 3. `path-planning-python`
+**Description:** Implement pathfinding algorithms used in mobile robotics (like A*, RRT, or Dijkstra).
+
+**Example files:**
